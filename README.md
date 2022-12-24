@@ -1,4 +1,4 @@
-# Welcome to Likuichao's Github Homepage! :smile:
+# Likuichao's Github Homepage! :smile:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=30&pause=1000&color=2999F7&width=435&lines=Welcome+to+my+Github!;hope+to+help+you!)](https://git.io/typing-svg)
 
